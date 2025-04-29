@@ -23,11 +23,24 @@ Idealizado como um sistema fictício para a "Cachaçaria do Seu Zé", o projeto 
 - [`deep_translator`](https://pypi.org/project/deep-translator/) — Para traduções automáticas com o Google Translate
 
 ---
-
 ## 📦 Instalação
+Explica como baixar e rodar:
+1. Clonar o repositório
+2. (Opcional) Criar ambiente virtual
+3. Instalar dependências com `pip install -r requirements.txt`
+4. Rodar com `python projeto.py`
 
-1. Clone o repositório:
+## 💡 Exemplo de Uso
+Escolha uma das opções:
+[1] Receber Conselhos
+[2] Ler Conselhos Salvos
+[3] Tradução de Conselhos
+[4] Sair do Programa
 
-```bash
-git clone https://github.com/seu-usuario/cachacaria-do-seu-ze.git
-cd cachacaria-do-seu-ze
+## 📝 Licença
+MIT
+
+## 🙋‍♂️ Autor
+Patryck Willyams de Lima Barbosa
+https://www.linkedin.com/in/patryck-willyams-90384017b/
+patryckwillyams@gmail.com
