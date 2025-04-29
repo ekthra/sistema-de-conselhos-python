@@ -42,6 +42,7 @@ Explica como baixar e rodar:
 MIT
 
 ## 🙋‍♂️ Autor
-Patryck Willyams de Lima Barbosa
-https://www.linkedin.com/in/patryck-willyams-90384017b/
-patryckwillyams@gmail.com
+
+  - Patryck Willyams
+  - patryckwillyams@gmail.com
+  - https://www.linkedin.com/in/patryck-willyams-90384017b/
