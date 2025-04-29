@@ -31,11 +31,12 @@ Explica como baixar e rodar:
 4. Rodar com `python projeto.py`
 
 ## 💡 Exemplo de Uso
-Escolha uma das opções:
-[1] Receber Conselhos
-[2] Ler Conselhos Salvos
-[3] Tradução de Conselhos
-[4] Sair do Programa
+    
+    Escolha uma das opções:
+    [1] Receber Conselhos
+    [2] Ler Conselhos Salvos
+    [3] Tradução de Conselhos
+    [4] Sair do Programa
 
 ## 📝 Licença
 MIT
